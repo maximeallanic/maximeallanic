@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Jarveat and Track2Max<br>🌱 I’m currently learning Rust
+🔭 I’m currently working on Addeus<br>🌱 I’m currently learning Rust
 
 
 ## 🌐 Socials:
